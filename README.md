@@ -76,8 +76,8 @@ I use this GitHub profile to document my technical learning, authorized security
 
 | Repository | Description |
 |---|---|
-| [Web-Application](https://github.com/periyannan75/Web-Application) | Web application security learning and testing |
-| [Development](https://github.com/periyannan75/Development) | Development and technical projects |
+| Web application security learning and testing |
+| Development and technical projects |
 | API-Security | API security testing and research |
 | Mobile-Security | Android and mobile security research |
 | Network-VAPT | Network security assessment labs |
